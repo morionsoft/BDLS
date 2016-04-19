@@ -1,0 +1,1 @@
+robocopy.exe D:\SoftInform\MorionOld\Database\short \\10.0.0.10\Users\I.Shkurat\m2001 mdrugs.rar
